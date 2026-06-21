@@ -20,6 +20,10 @@ Hi, I'm Md Akbar Hussain, a Computer Science Engineering student and the founder
 ## 🚀 Projects
 
 ### Website
+- 🔗 Live Demo: https://ultraeditx.vercel.app/
+- 📝 Description: A modern editing platform built to provide fast, efficient, and scalable content creation and management experiences.
+A good GitHub repository description should clearly state the project's purpose and value in a concise way. Research on GitHub repository descriptions shows that clear, informative descriptions improve discoverability and help visitors quickly understand a project's purpose. 
+### Website
 - 🔗 Live Demo: https://opcreatorlab.lovable.app/
 - 📂 Repository: https://github.com/mdakbarhussain550/opcreatorlab
 - 📝 Description: OPCreatorLab
