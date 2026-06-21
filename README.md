@@ -21,7 +21,7 @@ Hi, I'm Md Akbar Hussain, a Computer Science Engineering student and the founder
 
 ### Website
 - 🔗 Live Demo: https://opcreatorlab.lovable.app/
-- 📂 Repository: https://github.com/yourusername/repository-name
+- 📂 Repository: https://github.com/mdakbarhussain550/opcreatorlab
 - 📝 Description: OPCreatorLab
 Welcome to OPCreatorLab – Your Architect of Digital Success.
 We specialize in creating powerful digital experiences through:
